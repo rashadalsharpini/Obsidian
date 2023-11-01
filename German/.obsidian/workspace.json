@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "4cae4bccdaa5a13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d8d64cf43597957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93cb8356e79c1a3e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "German/Hausaufgabe.pdf"
+              }
+            }
+          },
+          {
+            "id": "7b52166df9099e9f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "German/Unterricht 2.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b26a28cd5c845c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc5920a61a1d8b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "words verbs.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c871e99891101a6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9fa1f2b09cba00b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6583b8733ff06eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c93469607233e117",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "numbers",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac624921ea4f39c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b6f0004cc702ece",
+    "type": "split",
+    "children": [
+      {
+        "id": "af74ca19b1e29e92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95e73e1112c172f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "German/Unterricht 2.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40032a661571c833",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "German/Unterricht 2.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22d5506b9ed0cb31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7757c94879831d02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "German/Unterricht 2.pdf"
+              }
+            }
+          },
+          {
+            "id": "364e57097d84919f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7b52166df9099e9f",
+  "lastOpenFiles": [
+    "German/أصوات اللغة الألمانية.pdf",
+    "German/Unterricht 2.pdf",
+    "German/Hausaufgabe 5.pdf",
+    "words verbs.md",
+    "German/Hausaufgabe.pdf",
+    "Introduce.md",
+    "numbers in German.md",
+    "Grammer verbs.md",
+    "Question.md",
+    "ArcoLinux-2023-10-28-1698485081_screenshot_1920x1080.jpg",
+    "family.md",
+    "der das die.md",
+    "2023-11-01.md",
+    "German/Unterricht 5.pdf",
+    "Project 1/Template Titans 1.md",
+    "German/Introduce.md",
+    "Project 1/Template Titans.md",
+    "Project 1/Template Titans.png",
+    "German.zip",
+    "German/ArcoLinux-2023-10-28-1698485081_screenshot_1920x1080.jpg",
+    "German/der das die.md",
+    "German/German/أصوات اللغة الألمانية.pdf",
+    "German/German/Unterricht 4.pdf",
+    "German/German/Unterricht 3.pdf",
+    "German/German/Unterricht 2 (1).pdf",
+    "German/German/Hausaufgabe.pdf",
+    "German/Question.md",
+    "German/numbers in German.md",
+    "German/Grammer verbs.md",
+    "German/family.md",
+    "obsidianRepo/Formatting/Format your notes.md",
+    "obsidianRepo/Formatting/Math.md",
+    "obsidianRepo/Formatting/Code block.md",
+    "obsidianRepo/Linux/Shell Scripting.md",
+    "ArcoLinux-2023-10-26-1698310673_screenshot_1920x1080.jpg",
+    "Pasted Image 20231026113841_437.jpg",
+    "obsidianRepo/photos/Pasted image 20230712100209.png",
+    "obsidianRepo/myVault/problem solving notes.md",
+    "obsidianRepo/myVault/Vault is just a local folder.md",
+    "obsidianRepo/myVault/STL.md",
+    "obsidianRepo/myVault/Recursion.md",
+    "obsidianRepo/myVault/Notes Data Structure.md"
+  ]
+}
