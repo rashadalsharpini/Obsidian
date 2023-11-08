@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea25339984e67003",
+            "id": "f3b121f993b2e6e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project 1/Template Titans 1.md",
+                "file": "German/Introduce.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project 1/Template Titans 1.md",
+                "file": "German/Introduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project 1/Template Titans 1.md",
+                "file": "German/Introduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project 1/Template Titans 1.md"
+                "file": "German/Introduce.md"
               }
             }
           },
@@ -157,17 +157,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a6583b8733ff06eb",
+  "active": "f3b121f993b2e6e7",
   "lastOpenFiles": [
+    "Linked List Single.md",
+    "ArcoLinux-2023-11-08-1699439706_screenshot_1920x1080.jpg",
+    "ArcoLinux-2023-11-08-1699439702_screenshot_1920x1080.jpg",
+    "German/Introduce.md",
+    "Project 1/Template Titans 1.md",
+    "Words English.md",
     "Project 2",
     "Project 1/Template Titans.png",
     "Project 1/Template Titans.md",
     "Project 1/ArcoLinux-2023-10-26-1698310673_screenshot_1920x1080.jpg",
     "German/Grammer verbs.md",
     "German/der das die.md",
-    "German/Introduce.md",
-    "Project 1/Template Titans 1.md",
-    "Words English.md",
     "2023-11.md",
     "youglish.com.md",
     "German/أصوات اللغة الألمانية.pdf",
@@ -189,7 +192,6 @@
     "German/German/أصوات اللغة الألمانية.pdf",
     "German/German/Unterricht 4.pdf",
     "German/German/Unterricht 3.pdf",
-    "German/German/Unterricht 2 (1).pdf",
     "German/Question.md",
     "German/numbers in German.md",
     "German/family.md",
@@ -199,7 +201,6 @@
     "obsidianRepo/Linux/Shell Scripting.md",
     "Pasted Image 20231026113841_437.jpg",
     "obsidianRepo/photos/Pasted image 20230712100209.png",
-    "obsidianRepo/myVault/problem solving notes.md",
-    "obsidianRepo/myVault/Vault is just a local folder.md"
+    "obsidianRepo/myVault/problem solving notes.md"
   ]
 }
