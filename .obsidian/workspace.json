@@ -8,18 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3b121f993b2e6e7",
+            "id": "d5196bd2d8426a3e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Words English.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9151fdeede1fc8c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German/Introduce.md",
+                "file": "Words English.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b45a078be2538c77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German/Introduce.md",
+                "file": "Words English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German/Introduce.md",
+                "file": "Words English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German/Introduce.md"
+                "file": "Words English.md"
               }
             }
           },
@@ -147,41 +174,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3b121f993b2e6e7",
+  "active": "9151fdeede1fc8c2",
   "lastOpenFiles": [
-    "German/German/possessivartikel-01.pdf",
-    "German/German/ab-1.pdf",
-    "German/German/German/possessivartikel-01.pdf",
-    "German/German/German/ab-1.pdf",
-    "German/German/German/Unterricht 6.pdf",
-    "German/German/German/Unterricht 5.pdf",
-    "German/German/German/Unterricht 4.pdf",
-    "German/German/German/Unterricht 2.pdf",
-    "German/German/German/Hausaufgabe.pdf",
-    "German/German/German/Hausaufgabe 5.pdf",
-    "German/German/German",
+    "Quotes.md",
     "Linked List Single.md",
+    "main.md",
+    "Excalidraw/Drawing 2023-11-24 13.28.12.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-07 23.51.41.excalidraw.md",
+    "Project 1/Template Titans.md",
+    "Words English.md",
+    "notes for adjusting linked list.md",
+    "Project 2/source.md",
+    "cpp.md",
+    "German/Introduce.md",
+    "2023-11.md",
+    "header.md",
+    "source.md",
+    "source.txt",
+    "German.zip",
+    "German/German/Unterricht 6.pdf",
+    "German/German/Unterricht 5.pdf",
+    "German/German/أصوات اللغة الألمانية.pdf",
+    "German/German/verb-sein-03.pdf",
+    "German/Question.md",
+    "German/German/Unterricht 2.pdf",
+    "German/numbers in German.md",
+    "Project 1/Template Titans.png",
+    "German/ArcoLinux-2023-10-28-1698485081_screenshot_1920x1080.jpg",
+    "German/German.zip",
+    "German/German/Unterricht 4.pdf",
+    "German/German/Unterricht 3.pdf",
+    "German/words verbs.md",
+    "German/Grammer verbs.md",
     "ArcoLinux-2023-11-08-1699439706_screenshot_1920x1080.jpg",
     "ArcoLinux-2023-11-08-1699439702_screenshot_1920x1080.jpg",
-    "German/Introduce.md",
     "Project 1/Template Titans 1.md",
-    "Words English.md",
-    "Project 1/Template Titans.png",
-    "Project 1/Template Titans.md",
     "Project 1/ArcoLinux-2023-10-26-1698310673_screenshot_1920x1080.jpg",
-    "German/Grammer verbs.md",
     "German/der das die.md",
-    "2023-11.md",
     "youglish.com.md",
     "words verbs.md",
     "Introduce.md",
@@ -189,19 +229,7 @@
     "Grammer verbs.md",
     "Question.md",
     "ArcoLinux-2023-10-28-1698485081_screenshot_1920x1080.jpg",
-    "family.md",
-    "der das die.md",
-    "2023-11-01.md",
-    "German/ArcoLinux-2023-10-28-1698485081_screenshot_1920x1080.jpg",
-    "German/Question.md",
-    "German/numbers in German.md",
-    "German/family.md",
-    "obsidianRepo/Formatting/Format your notes.md",
-    "obsidianRepo/Formatting/Math.md",
-    "obsidianRepo/Formatting/Code block.md",
-    "obsidianRepo/Linux/Shell Scripting.md",
     "Pasted Image 20231026113841_437.jpg",
-    "obsidianRepo/photos/Pasted image 20230712100209.png",
-    "obsidianRepo/myVault/problem solving notes.md"
+    "obsidianRepo/photos/Pasted image 20230712100209.png"
   ]
 }

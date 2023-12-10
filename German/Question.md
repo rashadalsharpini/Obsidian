@@ -36,7 +36,7 @@ ___
 	- Ich komme aus Agypton
 
 ---
-- Wo wohnst au?
+- Wo wohnst du?
 - Wo Wohnen Sie?
 	- Ich wohne in Cairo
 

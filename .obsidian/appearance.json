@@ -1,6 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Things",
+  "cssTheme": "Blue Topaz",
   "textFontFamily": "JetBrains Mono NL,Noto Sans Arabic",
-  "interfaceFontFamily": "MesloLGS NF"
+  "interfaceFontFamily": "MesloLGS NF",
+  "theme": "obsidian"
 }

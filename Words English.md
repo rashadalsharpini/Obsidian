@@ -32,9 +32,12 @@ quandary | مأزق
 hence | لذلك
 proxy | الوكيل
 contraceptive | مانع حمل
+belittle | استخفاف
+vocation | مهنة
 
 
 ---
 - Definition: 
 
-- Example: 
+- Example:
+
