@@ -34,7 +34,9 @@ proxy | الوكيل
 contraceptive | مانع حمل
 belittle | استخفاف
 vocation | مهنة
-
+intuitive | حدسي
+masochist | المنحرف جنسيا
+prevail | تسود
 
 ---
 - Definition: 

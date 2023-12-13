@@ -22,31 +22,38 @@
             }
           },
           {
-            "id": "9151fdeede1fc8c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Words English.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b45a078be2538c77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Quotes.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d32e83527eb4633",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea09f3a66844cd1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binary Tree.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,11 +99,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7b6f0004cc702ece",
@@ -185,15 +194,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9151fdeede1fc8c2",
+  "active": "d5196bd2d8426a3e",
   "lastOpenFiles": [
     "Quotes.md",
+    "Words English.md",
+    "Binary Tree.md",
     "Linked List Single.md",
     "main.md",
     "Excalidraw/Drawing 2023-11-24 13.28.12.excalidraw.md",
     "Excalidraw/Drawing 2023-12-07 23.51.41.excalidraw.md",
     "Project 1/Template Titans.md",
-    "Words English.md",
     "notes for adjusting linked list.md",
     "Project 2/source.md",
     "cpp.md",
@@ -227,7 +237,6 @@
     "Introduce.md",
     "numbers in German.md",
     "Grammer verbs.md",
-    "Question.md",
     "ArcoLinux-2023-10-28-1698485081_screenshot_1920x1080.jpg",
     "Pasted Image 20231026113841_437.jpg",
     "obsidianRepo/photos/Pasted image 20230712100209.png"
