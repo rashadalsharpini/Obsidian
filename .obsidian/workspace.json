@@ -32,26 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8d32e83527eb4633",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ea09f3a66844cd1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }

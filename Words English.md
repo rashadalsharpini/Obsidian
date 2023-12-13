@@ -37,6 +37,8 @@ vocation | مهنة
 intuitive | حدسي
 masochist | المنحرف جنسيا
 prevail | تسود
+psychotic | مضطرب عقلين
+pathetic | مثير للشفقة
 
 ---
 - Definition: 
