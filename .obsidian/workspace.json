@@ -28,12 +28,13 @@
               "type": "markdown",
               "state": {
                 "file": "Quotes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Words English.md",
+                "file": "Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Words English.md",
+                "file": "Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Words English.md"
+                "file": "Quotes.md"
               }
             }
           },
@@ -174,10 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5196bd2d8426a3e",
+  "active": "b45a078be2538c77",
   "lastOpenFiles": [
-    "Quotes.md",
     "Words English.md",
+    "Quotes.md",
     "Binary Tree.md",
     "Linked List Single.md",
     "main.md",
