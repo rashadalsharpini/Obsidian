@@ -22,12 +22,26 @@
             }
           },
           {
-            "id": "246001410486afbf",
+            "id": "7075b64360ce59f6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Quotes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "936d5a91c3e6f1c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "if.md",
                 "mode": "preview",
                 "source": false
               }
@@ -84,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7b6f0004cc702ece",
@@ -174,13 +187,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "246001410486afbf",
+  "active": "7075b64360ce59f6",
   "lastOpenFiles": [
-    "README.md",
+    "Linked List Single.md",
+    "if.md",
+    "Binary Tree.md",
     "Words English.md",
     "Quotes.md",
-    "Binary Tree.md",
-    "Linked List Single.md",
+    "README.md",
+    "READMEE.md",
+    "MarwanTamerMo/README.md",
     "main.md",
     "Excalidraw/Drawing 2023-11-24 13.28.12.excalidraw.md",
     "Excalidraw/Drawing 2023-12-07 23.51.41.excalidraw.md",
@@ -213,10 +229,6 @@
     "Project 1/Template Titans 1.md",
     "Project 1/ArcoLinux-2023-10-26-1698310673_screenshot_1920x1080.jpg",
     "German/der das die.md",
-    "youglish.com.md",
-    "words verbs.md",
-    "Introduce.md",
-    "numbers in German.md",
     "ArcoLinux-2023-10-28-1698485081_screenshot_1920x1080.jpg",
     "Pasted Image 20231026113841_437.jpg",
     "obsidianRepo/photos/Pasted image 20230712100209.png"
