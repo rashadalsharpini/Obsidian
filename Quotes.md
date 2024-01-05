@@ -59,3 +59,10 @@
 > What is honor compared to a woman's love? What is duty against the feel of a
 > newborn son in your arms or the memory of a brother's smile? Wind and words.
 > Wind and words.
+>> True Dectective
+>
+> Why should i live in history,huh?
+> fuck, i don't wanna know anything anymore
+> this is a world where nothing solved.
+> ---
+> 

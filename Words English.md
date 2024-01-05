@@ -43,6 +43,8 @@
 | offense | اهانة |  |  |
 | supremacist | المتعصب | الشخص المؤمن بسيادة مجموعة |  |
 | pedophile | متحرش اطفال |  |  |
+| AKA |  | also known as |  |
+| torment | عذاب |  |  |
 
 ---
 - Definition: 
