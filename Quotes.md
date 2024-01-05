@@ -3,6 +3,7 @@
 >
 > Everyone keeps telling me how my story is supposed to go
 > Nah!! I am gonna do my own thing.
+> 
 > ---
 >>Oppenheimer
 >
@@ -59,7 +60,7 @@
 > What is honor compared to a woman's love? What is duty against the feel of a
 > newborn son in your arms or the memory of a brother's smile? Wind and words.
 > Wind and words.
->> True Dectective
+>> True Detective
 >
 > Why should i live in history,huh?
 > fuck, i don't wanna know anything anymore
