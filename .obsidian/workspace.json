@@ -47,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Words English.md",
+                "file": "Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Words English.md",
+                "file": "Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Words English.md"
+                "file": "Quotes.md"
               }
             }
           },
@@ -187,11 +188,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5196bd2d8426a3e",
+  "active": "7075b64360ce59f6",
   "lastOpenFiles": [
+    "Words English.md",
     "Quotes.md",
     "اقتباس.md",
-    "Words English.md",
     "Formatting/Callout.md",
     "if.md",
     "Linked List Single.md",

@@ -64,5 +64,6 @@
 > Why should i live in history,huh?
 > fuck, i don't wanna know anything anymore
 > this is a world where nothing solved.
-> ---
 > 
+> ---
+

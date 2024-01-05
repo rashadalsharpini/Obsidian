@@ -45,6 +45,7 @@
 | pedophile | متحرش اطفال |  |  |
 | AKA |  | also known as |  |
 | torment | عذاب |  |  |
+| obsessed | مهووس |  |  |
 
 ---
 - Definition: 
