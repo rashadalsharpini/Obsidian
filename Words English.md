@@ -51,6 +51,9 @@
 | doormates | رفقاء البواب |  |  |
 | matadors | مصارعو الثيران |  |  |
 | sentence | جملة - عقوبة |  |  |
+| heterophobic | غير متجانسة |  |  |
+| Cis | رابطة الدول المستقلة |  |  |
+| cohesively | بشكل متماسك |  |  |
 
 ---
 - Definition: 
