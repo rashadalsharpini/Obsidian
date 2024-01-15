@@ -54,6 +54,10 @@
 | heterophobic | غير متجانسة |  |  |
 | Cis | رابطة الدول المستقلة |  |  |
 | cohesively | بشكل متماسك |  |  |
+| sarcasm | سخرية |  |  |
+| privilege | امتياز \ حصانة |  |  |
+| spousal | زواجي |  |  |
+|  |  |  |  |
 
 ---
 - Definition: 
