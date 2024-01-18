@@ -57,7 +57,8 @@
 | sarcasm | سخرية |  |  |
 | privilege | امتياز \ حصانة |  |  |
 | spousal | زواجي |  |  |
-|  |  |  |  |
+| limbo | طي النسيان |  |  |
+| paradox | المفارقة |  |  |
 
 ---
 - Definition: 
