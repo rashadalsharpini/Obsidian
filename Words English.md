@@ -59,6 +59,8 @@
 | spousal | زواجي |  |  |
 | limbo | طي النسيان |  |  |
 | paradox | المفارقة |  |  |
+| synthetic | اصطناعية |  |  |
+| absurd | سخيف |  |  |
 
 ---
 - Definition: 
