@@ -46,6 +46,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65a87567644e5780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sort comparison.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -176,7 +188,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,14 +195,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
+      "voice:Voice": false
     }
   },
   "active": "d5196bd2d8426a3e",
   "lastOpenFiles": [
-    "اقتباس.md",
+    "sort comparison.md",
     "Quotes.md",
     "Words English.md",
+    "اقتباس.md",
     "Formatting/Callout.md",
     "if.md",
     "Linked List Single.md",
@@ -228,7 +242,6 @@
     "German/Grammer verbs.md",
     "ArcoLinux-2023-11-08-1699439706_screenshot_1920x1080.jpg",
     "ArcoLinux-2023-11-08-1699439702_screenshot_1920x1080.jpg",
-    "Project 1/Template Titans 1.md",
     "Project 1/ArcoLinux-2023-10-26-1698310673_screenshot_1920x1080.jpg",
     "ArcoLinux-2023-10-28-1698485081_screenshot_1920x1080.jpg",
     "Pasted Image 20231026113841_437.jpg",
