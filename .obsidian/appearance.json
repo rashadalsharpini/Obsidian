@@ -1,7 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Things",
-  "textFontFamily": "JetBrains Mono NL,Noto Sans Arabic",
+  "textFontFamily": "JetBrains Mono NL,Noto Kufi Arabic",
   "interfaceFontFamily": "MesloLGS NF",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "nativeMenus": false
 }
