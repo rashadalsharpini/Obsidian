@@ -1,21 +1,21 @@
 Functional Requirements:
 1. Search and Browse
-	1. the system will allow users to search for hotel.
-	2. the system will allow users to search for tickets on flights.
-	3. the system will allow users to search for cars to rent.
-	4. the system will allow users to search for guide to hire through his journey.
+	1. allow users to search for hotel.
+	2. allow users to search for tickets on flights.
+	3. allow users to search for cars to rent.
+	4. allow users to search for guide to hire through his journey.
 2. Booking system
-	1. the system will allow users to book hotels and ticket for flights.
-	2. the system will allow users to hire guide or translator.
-	3. the system will allow users to book restaurant.
+	1. allow users to book hotels and ticket for flights.
+	2. allow users to hire guide or translator.
+	3. allow users to book restaurant.
 3. login system
-	1. the system will have a login future extend from the register function.
-	2. the system will have this future to save records and history and to authorize the payment system.
+	1. have a login future extend from the register function.
+	2. have this future to save records and history and to authorize the payment system.
 4. Payment system
 	1. Payment method like dept card or visa or even cash on arrival on some situations.
 5. Notification system 
-	1. Notification system to remind the users of their flights.
-	2. and to help them communicate with guide or the translator.
+	1. remind the users of their flights.
+	2. help them communicate with guide or the translator.
 6. Recommendation system to Tourist places.
 7. Rating system to help us improve or app.
 
