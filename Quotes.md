@@ -60,6 +60,12 @@
 > What is honor compared to a woman's love? What is duty against the feel of a
 > newborn son in your arms or the memory of a brother's smile? Wind and words.
 > Wind and words.
+>
+>---
+>
+> [Chaos is a ladder](https://www.youtube.com/watch?v=KH7sIOBJqLA)
+>
+>---
 >> True Detective
 >
 > Why should i live in history,huh?

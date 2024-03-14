@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/Time Complexity.md",
+                "file": "Words English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/Time Complexity.md",
+                "file": "Words English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/Time Complexity.md"
+                "file": "Words English.md"
               }
             }
           },
@@ -200,19 +199,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bfd03015bb4ff52d",
+  "active": "d5196bd2d8426a3e",
   "lastOpenFiles": [
+    "programming/Time Complexity.md",
+    "programming/IF.md",
+    "Quotes.md",
+    "Words English.md",
     "ArcoLinux-2024-03-13-1710360190_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710359988_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710359914_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710359852_screenshot_1920x1080.jpg",
     "programming/quick sort.md",
     "programming/sort comparison.md",
-    "programming/IF.md",
-    "programming/Time Complexity.md",
     "اقتباس.md",
-    "Quotes.md",
-    "Words English.md",
     "Recording 20240313165640.webm",
     "record",
     "Recording 20240313165615.webm",
@@ -246,7 +245,6 @@
     "source.txt",
     "German.zip",
     "German/German/Unterricht 6.pdf",
-    "German/German/Unterricht 5.pdf",
-    "Project 1/Template Titans.png"
+    "German/German/Unterricht 5.pdf"
   ]
 }
