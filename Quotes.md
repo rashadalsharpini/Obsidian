@@ -78,4 +78,8 @@
 > this is a world where nothing solved.
 > 
 > ---
+> >Oppenheimer
+> 
+> Amateurs seek the sun get eaten.
+> Power stays in the shadows.
 
