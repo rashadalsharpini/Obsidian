@@ -64,7 +64,9 @@
 | salvage          | استخلاص \ انقاذ      |                              |         |
 | compromise       | فضح\ مساومة          |                              |         |
 | NP               |                      | Non-deterministic Polynomial |         |
-|                  |                      |                              |         |
+| scatter          | مبعثر                |                              |         |
+| blush            | احمر خدود            |                              |         |
+| intimately       | متصل عاطفيا          |                              |         |
 
 ---
 - Definition: 
