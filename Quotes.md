@@ -67,6 +67,14 @@
 >
 > ---
 >
+> [Mind Battle](https://www.youtube.com/watch?v=9L4bRXL94Ws)
+>
+> ---
+> 
+> [i play a little game](https://www.youtube.com/watch?v=grT40ImDGhM)
+> 
+> ---
+> 
 > When You Play The Game Of Thrones You Win Or You Die
 >
 > ---

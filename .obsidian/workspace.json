@@ -47,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Words English.md",
+                "file": "Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Words English.md",
+                "file": "Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Words English.md"
+                "file": "Quotes.md"
               }
             }
           },
@@ -188,10 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "018f16872c62b673",
+  "active": "7075b64360ce59f6",
   "lastOpenFiles": [
-    "programming/IF.md",
     "Words English.md",
+    "programming/IF.md",
     "Quotes.md",
     "programming/Time Complexity.md",
     "ArcoLinux-2024-03-13-1710360190_screenshot_1920x1080.jpg",
