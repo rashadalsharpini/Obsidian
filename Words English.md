@@ -79,6 +79,9 @@
 | amputtee          | مبتور الأطراف        |                              |         |
 | cadavers          | الجثث                |                              |         |
 | cunning           | مكر                  |                              |         |
+| hypocrite         | منافق                |                              |         |
+| vulnerable        | غير حصين             |                              |         |
+| nail              | مسمار \ اضرب         |                              |         |
 
 ---
 - Definition: 

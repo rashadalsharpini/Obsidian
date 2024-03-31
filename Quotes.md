@@ -75,7 +75,7 @@
 > 
 > ---
 > 
-> When You Play The Game Of Thrones You Win Or You Die
+> When You Play The Game Of Thrones You Win Or You Die, there is no middle ground
 >
 > ---
 >
