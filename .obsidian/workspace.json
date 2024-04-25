@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why should we consider you for this tuition sponsorship?.md",
+                "file": "Git Hub Command.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "272dc203ac1efc71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataScientist/videos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "716f5bc461b977ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataScientist/videos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shell and",
+                "query": "github comma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why should we consider you for this tuition sponsorship?.md",
+                "file": "DataScientist/videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why should we consider you for this tuition sponsorship?.md",
+                "file": "DataScientist/videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why should we consider you for this tuition sponsorship?.md"
+                "file": "DataScientist/videos.md"
               }
             }
           },
@@ -172,9 +196,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54e188be2917ccbf",
+  "active": "272dc203ac1efc71",
   "lastOpenFiles": [
+    "DataScientist/Links.md",
+    "DataScientist/videos.md",
+    "Git Hub Command.md",
+    "DataScientist/ALX-Data-Science-Course-Overview.pdf",
+    "DataScientist/Salesforce-Administrator-Course-Overview-4.pdf",
+    "DataScientist/Data-Analytics-Course-Overview-4.pdf",
+    "DataScientist/books/mml-book.pdf",
+    "DataScientist/books/book.pdf",
+    "DataScientist/books",
+    "DataScientist",
     "Why should we consider you for this tuition sponsorship?.md",
+    "Unconfirmed 352866.crdownload",
     "programming/IF.md",
     "Quotes.md",
     "Words English.md",
@@ -188,14 +223,10 @@
     "programming/sort comparison.md",
     "Recording 20240313165640.webm",
     "record",
-    "Recording 20240313165615.webm",
-    "Recording 20240313165549.webm",
-    "Recording 20240313165524.webm",
     "SAD project.md",
     "programming/complex number multiplication.md",
     "programming/Linked List Single.md",
     "programming/Binary Tree.md",
-    "programming",
     "Excalidraw/Drawing 2023-11-24 13.28.12.excalidraw.md",
     "German/family.md",
     "ArcoLinux-2024-03-13-1710331329_screenshot_1920x1080.jpg",
@@ -212,13 +243,6 @@
     "MarwanTamerMo/README.md",
     "main.md",
     "Excalidraw/Drawing 2023-12-07 23.51.41.excalidraw.md",
-    "Project 1/Template Titans.md",
-    "notes for adjusting linked list.md",
-    "Project 2/source.md",
-    "cpp.md",
-    "source.txt",
-    "German.zip",
-    "German/German/Unterricht 6.pdf",
-    "German/German/Unterricht 5.pdf"
+    "Project 1/Template Titans.md"
   ]
 }
