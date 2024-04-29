@@ -8,13 +8,41 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d09f54175a34e906",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataScientist/Links.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "867da1f94d6f281f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataScientist/videos.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "7499a950cfff4c2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "programming/IF.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -30,33 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "272dc203ac1efc71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataScientist/videos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "716f5bc461b977ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataScientist/videos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github comma",
+                "query": "links",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,36 +200,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "272dc203ac1efc71",
+  "active": "867da1f94d6f281f",
   "lastOpenFiles": [
+    "شعر.md",
+    "اقتباس.md",
+    "Quotes.md",
     "DataScientist/Links.md",
     "DataScientist/videos.md",
     "Git Hub Command.md",
+    "programming/Time Complexity.md",
+    "programming/sort comparison.md",
+    "programming/quick sort.md",
+    "programming/Linked List Single.md",
+    "programming/IF.md",
+    "Linux/DWM.md",
+    "Linux/Linux Command.md",
+    "Linux/Nvim and configration of it.md",
+    "Linux/Shell Scripting.md",
+    "DataScientist/books/book.pdf",
+    "DataScientist/books/mml-book.pdf",
+    "Formatting/Format your notes.md",
     "DataScientist/ALX-Data-Science-Course-Overview.pdf",
     "DataScientist/Salesforce-Administrator-Course-Overview-4.pdf",
     "DataScientist/Data-Analytics-Course-Overview-4.pdf",
-    "DataScientist/books/mml-book.pdf",
-    "DataScientist/books/book.pdf",
     "DataScientist/books",
     "DataScientist",
     "Why should we consider you for this tuition sponsorship?.md",
     "Unconfirmed 352866.crdownload",
-    "programming/IF.md",
-    "Quotes.md",
     "Words English.md",
-    "اقتباس.md",
     "ArcoLinux-2024-03-13-1710360190_screenshot_1920x1080.jpg",
-    "programming/Time Complexity.md",
     "ArcoLinux-2024-03-13-1710359988_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710359914_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710359852_screenshot_1920x1080.jpg",
-    "programming/quick sort.md",
-    "programming/sort comparison.md",
     "Recording 20240313165640.webm",
     "record",
     "SAD project.md",
     "programming/complex number multiplication.md",
-    "programming/Linked List Single.md",
     "programming/Binary Tree.md",
     "Excalidraw/Drawing 2023-11-24 13.28.12.excalidraw.md",
     "German/family.md",
@@ -237,12 +247,6 @@
     "ArcoLinux-2024-03-09-1710000227_screenshot_1920x1080 1.jpg",
     "ArcoLinux-2024-03-09-1710000259_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-09-1710000227_screenshot_1920x1080.jpg",
-    "Formatting/Callout.md",
-    "README.md",
-    "READMEE.md",
-    "MarwanTamerMo/README.md",
-    "main.md",
-    "Excalidraw/Drawing 2023-12-07 23.51.41.excalidraw.md",
-    "Project 1/Template Titans.md"
+    "Formatting/Callout.md"
   ]
 }
