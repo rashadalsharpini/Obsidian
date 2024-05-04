@@ -4,6 +4,8 @@
 ### [Coursera](https://www.coursera.org/browse/data-science)
 ###  [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
 ### [Explore the full library of online courses and tools](https://grow.google/intl/uk/courses-and-tools/)
+### [Brilliant](https://Brilliant.org/CMS)
+
 #### news
 https://paperswithcode.com/
 https://github.com/trending
