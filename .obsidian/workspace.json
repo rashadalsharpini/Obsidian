@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "run Cpp in Terminal.md",
+                "file": "run Cpp Py in Terminal.md",
                 "mode": "preview",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "run Cpp in Terminal.md",
+                "file": "run Cpp Py in Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "run Cpp in Terminal.md",
+                "file": "run Cpp Py in Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "run Cpp in Terminal.md"
+                "file": "run Cpp Py in Terminal.md"
               }
             }
           },
@@ -239,11 +239,11 @@
   },
   "active": "e006ad9859afc96f",
   "lastOpenFiles": [
+    "map function.md",
+    "run Cpp Py in Terminal.md",
     "Linux/DWM.md",
     "Git Hub Command.md",
-    "run Cpp in Terminal.md",
     "programming/IF.md",
-    "map function.md",
     "DataScientist/plan for 6 month.md",
     "problem solving.md",
     "DataScientist/videos.md",
