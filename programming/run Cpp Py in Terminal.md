@@ -8,5 +8,6 @@ g++ main.cpp -o main
 
 ```sh
 ipython main.py
+# inside the ipython
 run main.py
 ```

@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Hub Command.md",
+                "file": "programming/Git Hub Command.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "map function.md",
+                "file": "programming/map function.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,14 +89,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "run Cpp Py in Terminal.md",
+                "file": "programming/run Cpp Py in Terminal.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,13 +142,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7b6f0004cc702ece",
@@ -164,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "run Cpp Py in Terminal.md",
+                "file": "programming/map function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "run Cpp Py in Terminal.md",
+                "file": "programming/map function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "run Cpp Py in Terminal.md"
+                "file": "programming/map function.md"
               }
             }
           },
@@ -237,12 +235,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e006ad9859afc96f",
+  "active": "a6583b8733ff06eb",
   "lastOpenFiles": [
-    "map function.md",
-    "run Cpp Py in Terminal.md",
+    "programming/run Cpp Py in Terminal.md",
+    "programming/map function.md",
     "Linux/DWM.md",
-    "Git Hub Command.md",
+    "programming/Git Hub Command.md",
     "programming/IF.md",
     "DataScientist/plan for 6 month.md",
     "problem solving.md",
