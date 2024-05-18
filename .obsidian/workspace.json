@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "7499a950cfff4c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/IF.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "54e188be2917ccbf",
             "type": "leaf",
             "state": {
@@ -84,6 +72,30 @@
             }
           },
           {
+            "id": "c7771df44acdb987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practical exams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8479bc7a4706e854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e006ad9859afc96f",
             "type": "leaf",
             "state": {
@@ -94,9 +106,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f48b4fe5e68dd59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permutations and Combinations.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -125,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sh",
+                "query": "math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7b6f0004cc702ece",
@@ -162,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/map function.md",
+                "file": "Permutations and Combinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/map function.md",
+                "file": "Permutations and Combinations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/map function.md"
+                "file": "Permutations and Combinations.md"
               }
             }
           },
@@ -235,18 +260,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6583b8733ff06eb",
+  "active": "7f48b4fe5e68dd59",
   "lastOpenFiles": [
+    "Formatting/Blockquote.md",
+    "Formatting/Callout.md",
+    "Formatting/Code block.md",
+    "Permutations and Combinations.md",
     "programming/run Cpp Py in Terminal.md",
+    "AWS.md",
+    "Practical exams.md",
     "programming/map function.md",
-    "Linux/DWM.md",
-    "programming/Git Hub Command.md",
-    "programming/IF.md",
     "DataScientist/plan for 6 month.md",
-    "problem solving.md",
+    "programming/Git Hub Command.md",
     "DataScientist/videos.md",
-    "Words English.md",
     "DataScientist/Links.md",
+    "Formatting/Format your notes.md",
+    "Formatting/Task.md",
+    "programming/IF.md",
+    "fucking project.md",
+    "Excalidraw/SequenceDiagramForLoginPage.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-05-08 21.03.50.excalidraw.md",
+    "Linux/DWM.md",
+    "problem solving.md",
+    "Words English.md",
     "DataScientist/Machine Learning for Everybody – Full Course [i_LwzRVP7bg].webm",
     "run/media/rashad/project/Rashad/MachineLearining.md",
     "run/media/rashad/project/Rashad",
@@ -259,24 +296,13 @@
     "اقتباس.md",
     "Quotes.md",
     "programming/Time Complexity.md",
-    "programming/sort comparison.md",
-    "programming/quick sort.md",
-    "programming/Linked List Single.md",
-    "Linux/Linux Command.md",
-    "Linux/Nvim and configration of it.md",
-    "Linux/Shell Scripting.md",
     "DataScientist/books/book.pdf",
     "DataScientist/books/mml-book.pdf",
-    "Formatting/Format your notes.md",
     "DataScientist/ALX-Data-Science-Course-Overview.pdf",
-    "Why should we consider you for this tuition sponsorship?.md",
     "ArcoLinux-2024-03-13-1710360190_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710359988_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710359914_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710359852_screenshot_1920x1080.jpg",
-    "SAD project.md",
-    "programming/complex number multiplication.md",
-    "programming/Binary Tree.md",
     "ArcoLinux-2024-03-13-1710331329_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710331329_screenshot_1920x1080 1.jpg",
     "ArcoLinux-2024-03-09-1710000259_screenshot_1920x1080 1.jpg",
