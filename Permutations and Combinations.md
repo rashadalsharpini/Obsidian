@@ -37,21 +37,25 @@ $$nCr=nPr/r!$$
 >$$nPn = n!$$
 >$$nP1 = n$$
 
->[!question]-
+>[!question]
 >in how many different ways can you arrange 4 books on a shelf from a group of 7?
+> >[!answer]-
 $$7P3$$
 $$7!/(7-3)!$$
 
->[!question]-
+>[!question]
 >in how many different ways can we arrange 5 books on shelf ?
+> >[!answer]-
 >$$5P5$$
 
->[!question]-
+>[!question]
 >how many teams of 4 can be produced from a pool of 12 engineers ?
+> >[!answer]-
 >$$12C4$$
 >$$12!/((12-4)!4!)$$
 
->[!question]-
+>[!question]
 >how many different ways can you arrange the letters in the word *alabama*
+> >[!answer]-
 >7 letters
 >4 letters that repeat
