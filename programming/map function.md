@@ -1,3 +1,4 @@
+#Python 
 Map  - map(function, iterable)
 	- Returns an iterator that applies function to every item of iterable
 ---
