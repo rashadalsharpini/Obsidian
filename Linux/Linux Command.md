@@ -1,5 +1,6 @@
+#Linux-Command 
+
 Commands for arch Linux:
-By Mohamed Elsayed Rabie
 1. `pwd` - print the current working directory.
 2. `cd` - change directory to navigate to any directory or folder.
 3. `touch` - create new empty files.

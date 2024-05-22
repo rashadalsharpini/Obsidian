@@ -36,91 +36,19 @@
             }
           },
           {
-            "id": "54e188be2917ccbf",
+            "id": "6299cf2ca4fa3939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/Git Hub Command.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "598079d7f302a40b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataScientist/plan for 6 month.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "375901be9d2524b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/map function.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7771df44acdb987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practical exams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8479bc7a4706e854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e006ad9859afc96f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/run Cpp Py in Terminal.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f48b4fe5e68dd59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permutations and Combinations.md",
+                "file": "Linux/FZF.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "math",
+                "query": "linux-com",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,12 +94,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7b6f0004cc702ece",
@@ -187,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permutations and Combinations.md",
+                "file": "Linux/FZF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permutations and Combinations.md",
+                "file": "Linux/FZF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permutations and Combinations.md"
+                "file": "Linux/FZF.md"
               }
             }
           },
@@ -260,19 +188,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f48b4fe5e68dd59",
+  "active": "6299cf2ca4fa3939",
   "lastOpenFiles": [
+    "DataScientist/videos.md",
+    "Linux/Linux Command.md",
+    "Linux/FZF.md",
+    "SAD project.md",
+    "Practical exams.md",
+    "math/Permutations and Combinations.md",
+    "Formatting/Math.md",
+    "programming/Git Hub Command.md",
+    "DataScientist/plan for 6 month.md",
+    "programming/map function.md",
+    "AWS.md",
+    "programming/run Cpp Py in Terminal.md",
+    "ArcoLinux-2023-11-08-1699439702_screenshot_1920x1080.jpg",
+    "math",
     "Formatting/Blockquote.md",
     "Formatting/Callout.md",
     "Formatting/Code block.md",
-    "Permutations and Combinations.md",
-    "programming/run Cpp Py in Terminal.md",
-    "AWS.md",
-    "Practical exams.md",
-    "programming/map function.md",
-    "DataScientist/plan for 6 month.md",
-    "programming/Git Hub Command.md",
-    "DataScientist/videos.md",
     "DataScientist/Links.md",
     "Formatting/Format your notes.md",
     "Formatting/Task.md",
@@ -292,13 +226,8 @@
     "run/media",
     "run",
     "DataScientist/Back-End-Web-Development-Course-Overview-5.pdf",
-    "شعر.md",
-    "اقتباس.md",
-    "Quotes.md",
-    "programming/Time Complexity.md",
     "DataScientist/books/book.pdf",
     "DataScientist/books/mml-book.pdf",
-    "DataScientist/ALX-Data-Science-Course-Overview.pdf",
     "ArcoLinux-2024-03-13-1710360190_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710359988_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710359914_screenshot_1920x1080.jpg",
@@ -307,7 +236,6 @@
     "ArcoLinux-2024-03-13-1710331329_screenshot_1920x1080 1.jpg",
     "ArcoLinux-2024-03-09-1710000259_screenshot_1920x1080 1.jpg",
     "ArcoLinux-2024-03-09-1710000227_screenshot_1920x1080 1.jpg",
-    "ArcoLinux-2024-03-09-1710000259_screenshot_1920x1080.jpg",
-    "ArcoLinux-2024-03-09-1710000227_screenshot_1920x1080.jpg"
+    "ArcoLinux-2024-03-09-1710000259_screenshot_1920x1080.jpg"
   ]
 }
