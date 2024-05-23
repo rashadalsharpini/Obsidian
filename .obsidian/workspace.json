@@ -58,9 +58,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b02e6b171eaf626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary-Map.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c42941a11f517bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/map function.md",
+                "file": "Dictionary-Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/map function.md",
+                "file": "Dictionary-Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/map function.md"
+                "file": "Dictionary-Map.md"
               }
             }
           },
@@ -200,10 +220,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6299cf2ca4fa3939",
+  "active": "1b02e6b171eaf626",
   "lastOpenFiles": [
-    "programming/List Comprehension.md",
     "programming/map function.md",
+    "Dictionary-Map.md",
+    "programming/List Comprehension.md",
     "programming/Linked List Single.md",
     "programming/IF.md",
     "programming/quick sort.md",
@@ -229,7 +250,6 @@
     "Formatting/Code block.md",
     "DataScientist/Links.md",
     "Formatting/Format your notes.md",
-    "Formatting/Task.md",
     "Untitled.canvas",
     "DataScientist/Machine Learning for Everybody – Full Course [i_LwzRVP7bg].webm",
     "run/media/rashad/project/Rashad",
