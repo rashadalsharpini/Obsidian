@@ -34,9 +34,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "231d2e2ee75dafb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/run Cpp Py in Terminal.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75811f17bd50242b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "binary-stuff.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataScientist/videos.md",
+                "file": "binary-stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataScientist/videos.md",
+                "file": "binary-stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScientist/videos.md"
+                "file": "binary-stuff.md"
               }
             }
           },
@@ -176,12 +200,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "867da1f94d6f281f",
+  "active": "75811f17bd50242b",
   "lastOpenFiles": [
+    "Linux/run Cpp Py in Terminal.md",
+    "binary-stuff.md",
+    "DataScientist/videos.md",
     "programming/List Comprehension.md",
     "programming/map function.md",
     "programming/Dictionary-Map.md",
-    "DataScientist/videos.md",
     "math/Permutations and Combinations.md",
     "ArcoLinux-2024-03-13-1710359852_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-09-1710000259_screenshot_1920x1080 1.jpg",
@@ -200,7 +226,6 @@
     "programming/matrix multiplication.md",
     "programming/Time Complexity.md",
     "programming/sort comparison.md",
-    "programming/run Cpp Py in Terminal.md",
     "programming/Binary Tree.md",
     "Git Hub Command.md",
     "Linux/Linux Command.md",
