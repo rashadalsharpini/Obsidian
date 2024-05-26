@@ -65,14 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Hub Command.md",
+                "file": "programming/Built in sort Python.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Hub Command.md",
+                "file": "programming/binary-stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Hub Command.md",
+                "file": "programming/binary-stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Hub Command.md"
+                "file": "programming/binary-stuff.md"
               }
             }
           },
@@ -212,9 +212,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4aad44ae14318763",
+  "active": "75811f17bd50242b",
   "lastOpenFiles": [
-    "programming/Built in sort Py.md",
+    "programming/Built in sort Python.md",
+    "Git Hub Command.md",
     "programming/binary-stuff.md",
     "Linux/FZF.md",
     "Linux/run Cpp Py in Terminal.md",
@@ -242,7 +243,6 @@
     "programming/Time Complexity.md",
     "programming/sort comparison.md",
     "programming/Binary Tree.md",
-    "Git Hub Command.md",
     "Linux/Linux Command.md",
     "Formatting/Math.md",
     "DataScientist/plan for 6 month.md",
