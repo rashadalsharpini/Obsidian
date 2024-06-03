@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/run Cpp Py in Terminal.md",
+                "file": "Linux/Shell Scripting.md",
                 "mode": "preview",
                 "source": false
               }
@@ -65,38 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Hub Command.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ee2ca9704767e76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/List Comprehension.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb108cc400acb268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A. Turtle and Piggy Are Playing a Game.md",
+                "file": "problemSolving/A. Turtle and Piggy Are Playing a Game.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fzf",
+                "query": "tag:#Python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A. Turtle and Piggy Are Playing a Game.md",
+                "file": "problemSolving/A. Turtle and Piggy Are Playing a Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A. Turtle and Piggy Are Playing a Game.md",
+                "file": "problemSolving/A. Turtle and Piggy Are Playing a Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A. Turtle and Piggy Are Playing a Game.md"
+                "file": "problemSolving/A. Turtle and Piggy Are Playing a Game.md"
               }
             }
           },
@@ -236,13 +212,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb108cc400acb268",
+  "active": "4aad44ae14318763",
   "lastOpenFiles": [
-    "programming/List Comprehension.md",
-    "A. Turtle and Piggy Are Playing a Game.md",
+    "Linux/Shell Scripting.md",
+    "Linux/run Cpp Py in Terminal.md",
+    "problemSolving/A. Turtle and Piggy Are Playing a Game.md",
+    "Formatting/Format your notes.md",
     "Git Hub Command.md",
-    "math/Permutations and Combinations.md",
+    "programming/Built in sort Python.md",
     "programming/binary-stuff.md",
+    "problemSolving",
+    "programming/List Comprehension.md",
+    "math/Permutations and Combinations.md",
     "Christopher Waltz.md",
     "programming/Time Complexity.md",
     "programming/sort comparison.md",
@@ -253,9 +234,7 @@
     "programming/IF.md",
     "programming/Dictionary-Map.md",
     "programming/complex number multiplication.md",
-    "programming/Built in sort Python.md",
     "programming/Binary Tree.md",
-    "Linux/run Cpp Py in Terminal.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Linux/FZF.md",
@@ -272,8 +251,6 @@
     "collage/SAD project.md",
     "collage/Practical exams.md",
     "collage",
-    "Linux/Linux Command.md",
-    "Formatting/Math.md",
     "math",
     "DataScientist/Machine Learning for Everybody – Full Course [i_LwzRVP7bg].webm",
     "run/media/rashad/project/Rashad",
@@ -282,7 +259,6 @@
     "run/media",
     "run",
     "DataScientist/Back-End-Web-Development-Course-Overview-5.pdf",
-    "DataScientist/books/book.pdf",
     "ArcoLinux-2024-03-13-1710360190_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710359988_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-13-1710359914_screenshot_1920x1080.jpg"

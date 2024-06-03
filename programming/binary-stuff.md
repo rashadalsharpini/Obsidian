@@ -1,3 +1,4 @@
+#Python 
 ```py
 print(int('100', 2))  # binary to decimal
 print(int(bin(4)[2:]))  # decimal to binary
