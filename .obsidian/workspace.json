@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03410c8f065d9d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/counting.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "problemSolving/A. Problem Generator.md",
+                "file": "programming/counting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "problemSolving/A. Problem Generator.md",
+                "file": "programming/counting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "problemSolving/A. Problem Generator.md"
+                "file": "programming/counting.md"
               }
             }
           },
@@ -200,10 +212,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6583b8733ff06eb",
+  "active": "03410c8f065d9d3f",
   "lastOpenFiles": [
-    "programming/frequency array.md",
     "problemSolving/A. Problem Generator.md",
+    "programming/frequency array.md",
+    "programming/counting.md",
+    "Pasted image 20240605223940.png",
+    "Pasted image 20240605223838.png",
+    "DataScientist/Links.md",
     "DataScientist/videos.md",
     "Linux/Shell Scripting.md",
     "programming/binary-stuff.md",
@@ -228,8 +244,6 @@
     "programming/Binary Tree.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Linux/FZF.md",
-    "DataScientist/Links.md",
     "ArcoLinux-2024-03-13-1710359852_screenshot_1920x1080.jpg",
     "ArcoLinux-2024-03-09-1710000259_screenshot_1920x1080 1.jpg",
     "ArcoLinux-2024-03-09-1710000259_screenshot_1920x1080.jpg",
@@ -237,7 +251,6 @@
     "ArcoLinux-2024-03-09-1710000227_screenshot_1920x1080.jpg",
     "ArcoLinux-2023-11-08-1699439706_screenshot_1920x1080.jpg",
     "ArcoLinux-2023-11-08-1699439702_screenshot_1920x1080.jpg",
-    "Quotes.md",
     "collage",
     "math",
     "DataScientist/Machine Learning for Everybody – Full Course [i_LwzRVP7bg].webm",
@@ -247,8 +260,6 @@
     "run/media",
     "run",
     "DataScientist/Back-End-Web-Development-Course-Overview-5.pdf",
-    "ArcoLinux-2024-03-13-1710360190_screenshot_1920x1080.jpg",
-    "ArcoLinux-2024-03-13-1710359988_screenshot_1920x1080.jpg",
-    "ArcoLinux-2024-03-13-1710359914_screenshot_1920x1080.jpg"
+    "ArcoLinux-2024-03-13-1710360190_screenshot_1920x1080.jpg"
   ]
 }
