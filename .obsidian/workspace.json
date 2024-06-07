@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "problemSolving/A. Problem Generator.md",
+                "file": "programming/List Comprehension.md",
                 "mode": "preview",
                 "source": false
               }
@@ -70,9 +70,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f9f0abbf89845dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sub array Generator with Step Constraints.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Python",
+                "query": "lamb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/counting.md",
+                "file": "Sub array Generator with Step Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/counting.md",
+                "file": "Sub array Generator with Step Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/counting.md"
+                "file": "Sub array Generator with Step Constraints.md"
               }
             }
           },
@@ -212,14 +224,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03410c8f065d9d3f",
+  "active": "1f9f0abbf89845dc",
   "lastOpenFiles": [
+    "DataScientist/Links.md",
     "problemSolving/A. Problem Generator.md",
-    "programming/frequency array.md",
+    "Sub array Generator with Step Constraints.md",
     "programming/counting.md",
+    "programming/frequency array.md",
     "Pasted image 20240605223940.png",
     "Pasted image 20240605223838.png",
-    "DataScientist/Links.md",
     "DataScientist/videos.md",
     "Linux/Shell Scripting.md",
     "programming/binary-stuff.md",
