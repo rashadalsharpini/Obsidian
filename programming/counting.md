@@ -15,3 +15,21 @@ print(freq_a)
 ```
 ![[Pasted image 20240605223838.png]]
 ![[Pasted image 20240605223940.png]]
+
+```py
+from collections import Counter
+
+
+if __name__ == '__main__':
+	a = list(map(int, bin(4312)[2:]))
+	count = Counter(a)
+	print(count)
+	# Counting '1's directly from the list
+	count_of_ones = count[1]
+	print(count_of_ones)
+	# Using Counter on the string version of `a`
+	a_str = ''.join(map(str, a))
+	count_str = Counter(a_str)
+	most_common_char = count_str.most_common(1) # Get the most common character
+	print(most_common_char) # [('1', count)]
+```

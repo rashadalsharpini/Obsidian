@@ -36,7 +36,19 @@
             }
           },
           {
-            "id": "961f896518a3704f",
+            "id": "18a66a21e4e724cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Movies & Series.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "949ccf030884aa44",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binary",
+                "query": "lam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/binary-stuff.md",
+                "file": "Movies & Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/binary-stuff.md",
+                "file": "Movies & Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/binary-stuff.md"
+                "file": "Movies & Series.md"
               }
             }
           },
@@ -167,8 +179,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,20 +199,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "961f896518a3704f",
+  "active": "18a66a21e4e724cb",
   "lastOpenFiles": [
-    "programming/Sub array Generator with Step Constraints.md",
     "programming/binary-stuff.md",
+    "DataScientist/Links.md",
     "DataScientist/videos.md",
-    "programming/Built in sort Python.md",
+    "Movies & Series.md",
     "programming/List Comprehension.md",
+    "programming/counting.md",
+    "programming/myScript.py",
+    "programming/Sub array Generator with Step Constraints.md",
+    "programming/Built in sort Python.md",
     "programming/Dictionary-Map.md",
     "programming/frequency array.md",
     "programming/Binary Tree.md",
     "problemSolving/A. Turtle and Piggy Are Playing a Game.md",
-    "programming/counting.md",
     "Quotes.md",
-    "DataScientist/Links.md",
     "Git Hub Command.md",
     "problemSolving/A. Problem Generator.md",
     "Pasted image 20240605223940.png",
@@ -218,7 +231,6 @@
     "programming/matrix multiplication.md",
     "programming/map function.md",
     "programming/Linked List Single.md",
-    "programming/IF.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "ArcoLinux-2024-03-13-1710359852_screenshot_1920x1080.jpg",
@@ -236,7 +248,6 @@
     "run/media/rashad",
     "run/media",
     "run",
-    "DataScientist/Back-End-Web-Development-Course-Overview-5.pdf",
     "ArcoLinux-2024-03-13-1710360190_screenshot_1920x1080.jpg"
   ]
 }

@@ -40,7 +40,6 @@ print(3 ^ 4)
 ```
 
 ```md
-(& 1) == (!= 0) 
   5 ==> 0101
 & 1 ==> 0001
 True which means odd
@@ -73,4 +72,22 @@ if __name__ == "__main__":
     x = decToBin(y)  # Doesn't even print my laptop crash before the answer
     print(*x)  
     print(bin(y)[2:]) # way faster, almost instant
+```
+
+```py
+for i in range(100):  
+    print(~i, i)
+```
+
+```py
+a = [0, 1, 2, 3]  
+for i in range(1 << len(a)):  
+    msk = i  
+    j = 0  
+    while msk:  
+        if msk & 1:  
+            print(a[j], end=' ')  
+        j += 1  
+        msk >>= 1  
+    print()
 ```
