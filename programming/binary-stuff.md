@@ -91,3 +91,21 @@ for i in range(1 << len(a)):
         msk >>= 1  
     print()
 ```
+
+```py
+def get_bit(n, i):  
+    if int(bin(n & (1 << i))[2:]) != 0:  
+        return 1  
+    return 0  
+  
+  
+def set_bit(n, i, value):  
+    if value:  
+        return n | (1 << i)  
+    else:  
+        return n & ~(1 << i)  
+  
+  
+def flip_bit(n, i):  
+    return n ^ (1 << i)
+```
