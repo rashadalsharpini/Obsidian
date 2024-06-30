@@ -109,3 +109,14 @@ def set_bit(n, i, value):
 def flip_bit(n, i):  
     return n ^ (1 << i)
 ```
+
+### prefix Xor
+```py
+n = int(input())  
+a = list(map(int, input().split()))  
+prefix = [0]*(n+5)  
+for i in range(n):  
+    prefix[i+1] = a[i] ^ prefix[i]  
+l, r = map(int, input().split())  
+print(prefix[r] ^ prefix[l - 1])
+```

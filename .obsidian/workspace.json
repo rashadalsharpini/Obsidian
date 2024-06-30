@@ -36,19 +36,7 @@
             }
           },
           {
-            "id": "18a66a21e4e724cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Movies & Series.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "949ccf030884aa44",
+            "id": "402d7b5e4cf5a42d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lam",
+                "query": "tag:#Python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movies & Series.md",
+                "file": "programming/binary-stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movies & Series.md",
+                "file": "programming/binary-stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Movies & Series.md"
+                "file": "programming/binary-stuff.md"
               }
             }
           },
@@ -199,38 +188,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18a66a21e4e724cb",
+  "active": "402d7b5e4cf5a42d",
   "lastOpenFiles": [
     "programming/binary-stuff.md",
-    "DataScientist/Links.md",
-    "DataScientist/videos.md",
-    "Movies & Series.md",
+    "programming/map function.md",
     "programming/List Comprehension.md",
+    "programming/frequency array.md",
+    "programming/Built in sort Python.md",
+    "collage/AWS.md",
     "programming/counting.md",
+    "programming/Binary Tree.md",
+    "DataScientist/videos.md",
+    "Pasted image 20240605223838.png",
+    "CamScanner 05-20-2023 00.35_2.jpg",
+    "CamScanner 05-20-2023 00.35_1.jpg",
+    "Rashad_Alsharpini.md",
+    "DataScientist/Links.md",
+    "Movies & Series.md",
+    "programming/Linked List Single.md",
+    "programming/IF.md",
+    "programming/Dictionary-Map.md",
+    "Quotes.md",
+    "German/words verbs.md",
     "programming/myScript.py",
     "programming/Sub array Generator with Step Constraints.md",
-    "programming/Built in sort Python.md",
-    "programming/Dictionary-Map.md",
-    "programming/frequency array.md",
-    "programming/Binary Tree.md",
     "problemSolving/A. Turtle and Piggy Are Playing a Game.md",
-    "Quotes.md",
     "Git Hub Command.md",
     "problemSolving/A. Problem Generator.md",
     "Pasted image 20240605223940.png",
-    "Pasted image 20240605223838.png",
     "Linux/Shell Scripting.md",
     "Linux/run Cpp Py in Terminal.md",
     "Formatting/Format your notes.md",
     "problemSolving",
     "math/Permutations and Combinations.md",
     "Christopher Waltz.md",
-    "programming/Time Complexity.md",
-    "programming/sort comparison.md",
-    "programming/quick sort.md",
-    "programming/matrix multiplication.md",
-    "programming/map function.md",
-    "programming/Linked List Single.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "ArcoLinux-2024-03-13-1710359852_screenshot_1920x1080.jpg",
@@ -239,7 +230,6 @@
     "ArcoLinux-2024-03-09-1710000227_screenshot_1920x1080 1.jpg",
     "ArcoLinux-2024-03-09-1710000227_screenshot_1920x1080.jpg",
     "ArcoLinux-2023-11-08-1699439706_screenshot_1920x1080.jpg",
-    "ArcoLinux-2023-11-08-1699439702_screenshot_1920x1080.jpg",
     "collage",
     "math",
     "DataScientist/Machine Learning for Everybody – Full Course [i_LwzRVP7bg].webm",
@@ -247,7 +237,6 @@
     "run/media/rashad/project",
     "run/media/rashad",
     "run/media",
-    "run",
-    "ArcoLinux-2024-03-13-1710360190_screenshot_1920x1080.jpg"
+    "run"
   ]
 }

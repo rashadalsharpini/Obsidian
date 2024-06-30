@@ -4,5 +4,6 @@
   "textFontFamily": "JetBrains Mono NL,Noto Kufi Arabic",
   "interfaceFontFamily": "MesloLGS NF",
   "theme": "obsidian",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSizeAction": true
 }
