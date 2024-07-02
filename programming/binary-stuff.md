@@ -79,6 +79,7 @@ for i in range(100):
     print(~i, i)
 ```
 
+### Sub Sequences
 ```py
 a = [0, 1, 2, 3]  
 for i in range(1 << len(a)):  
@@ -110,7 +111,7 @@ def flip_bit(n, i):
     return n ^ (1 << i)
 ```
 
-### prefix Xor
+### Prefix Xor
 ```py
 n = int(input())  
 a = list(map(int, input().split()))  
