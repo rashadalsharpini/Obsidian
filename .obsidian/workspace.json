@@ -46,9 +46,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23efb6e24a95c87e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Nvim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68ea76c13aeae2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/FZF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "647d516fddb3dd69",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -77,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Python",
+                "query": "linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7b6f0004cc702ece",
@@ -116,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/binary-stuff.md",
+                "file": "Linux/FZF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/binary-stuff.md",
+                "file": "Linux/FZF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/binary-stuff.md"
+                "file": "Linux/FZF.md"
               }
             }
           },
@@ -188,8 +219,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "402d7b5e4cf5a42d",
+  "active": "68ea76c13aeae2b9",
   "lastOpenFiles": [
+    "internet.md",
+    "Linux/Nvim.md",
+    "Linux/DWM.md",
+    "Linux/Shell Scripting.md",
+    "Git Hub Command.md",
+    "Movies & Series.md",
+    "DataScientist/Links.md",
+    "DataScientist/videos.md",
     "programming/binary-stuff.md",
     "programming/map function.md",
     "programming/List Comprehension.md",
@@ -198,13 +237,10 @@
     "collage/AWS.md",
     "programming/counting.md",
     "programming/Binary Tree.md",
-    "DataScientist/videos.md",
     "Pasted image 20240605223838.png",
     "CamScanner 05-20-2023 00.35_2.jpg",
     "CamScanner 05-20-2023 00.35_1.jpg",
     "Rashad_Alsharpini.md",
-    "DataScientist/Links.md",
-    "Movies & Series.md",
     "programming/Linked List Single.md",
     "programming/IF.md",
     "programming/Dictionary-Map.md",
@@ -213,15 +249,10 @@
     "programming/myScript.py",
     "programming/Sub array Generator with Step Constraints.md",
     "problemSolving/A. Turtle and Piggy Are Playing a Game.md",
-    "Git Hub Command.md",
     "problemSolving/A. Problem Generator.md",
     "Pasted image 20240605223940.png",
-    "Linux/Shell Scripting.md",
     "Linux/run Cpp Py in Terminal.md",
-    "Formatting/Format your notes.md",
     "problemSolving",
-    "math/Permutations and Combinations.md",
-    "Christopher Waltz.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "ArcoLinux-2024-03-13-1710359852_screenshot_1920x1080.jpg",
