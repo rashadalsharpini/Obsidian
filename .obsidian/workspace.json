@@ -36,12 +36,24 @@
             }
           },
           {
-            "id": "2f971938a814df5f",
+            "id": "05bb23a519217aa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "math/the sum of a Geometric Series.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ba428e19da7943f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "power.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bit length",
+                "query": "binary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,15 +199,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f971938a814df5f",
+  "active": "05bb23a519217aa1",
   "lastOpenFiles": [
-    "math/Permutations and Combinations.md",
+    "power.md",
+    "math/the sum of a Geometric Series.md",
     "DataScientist/videos.md",
     "programming/binary-stuff.md",
+    "math/Permutations and Combinations.md",
     "Linux/Nvim.md",
     "problemSolving/A. Turtle and Piggy Are Playing a Game.md",
     "Christopher Waltz.md",
-    "math/the sum of a Geometric Series.md",
     "problemSolving/A. Problem Generator.md",
     "DataScientist/Links.md",
     "Linux/FZF.md",
@@ -217,7 +230,6 @@
     "Rashad_Alsharpini.md",
     "programming/Linked List Single.md",
     "programming/IF.md",
-    "programming/Dictionary-Map.md",
     "programming/myScript.py",
     "Pasted image 20240605223940.png",
     "problemSolving",
