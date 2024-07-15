@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "math/the sum of a Geometric Series.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -61,6 +61,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "27681174a9365a4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a348f09459486c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formatting/Format your notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binary",
+                "query": "math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/the sum of a Geometric Series.md",
+                "file": "Formatting/Format your notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/the sum of a Geometric Series.md",
+                "file": "Formatting/Format your notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/the sum of a Geometric Series.md"
+                "file": "Formatting/Format your notes.md"
               }
             }
           },
@@ -199,10 +218,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05bb23a519217aa1",
+  "active": "0a348f09459486c4",
   "lastOpenFiles": [
-    "power.md",
     "math/the sum of a Geometric Series.md",
+    "Formatting/Format your notes.md",
+    "power.md",
     "DataScientist/videos.md",
     "programming/binary-stuff.md",
     "math/Permutations and Combinations.md",
@@ -229,7 +249,6 @@
     "CamScanner 05-20-2023 00.35_1.jpg",
     "Rashad_Alsharpini.md",
     "programming/Linked List Single.md",
-    "programming/IF.md",
     "programming/myScript.py",
     "Pasted image 20240605223940.png",
     "problemSolving",
