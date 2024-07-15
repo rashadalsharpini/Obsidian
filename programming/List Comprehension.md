@@ -12,3 +12,6 @@ for i in range(n):
     s.append(input())  
 print(*s, sep='\n', end='')
 ```
+
+![[frequency array]]
+![[map function]]
