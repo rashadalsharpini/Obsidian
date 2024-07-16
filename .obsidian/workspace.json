@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Script.md",
+                "file": "programming/power.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "math",
+                "query": "gcd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script.md",
+                "file": "programming/power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Script.md",
+                "file": "programming/power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script.md"
+                "file": "programming/power.md"
               }
             }
           },
@@ -187,11 +187,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05bb23a519217aa1",
+  "active": "a6583b8733ff06eb",
   "lastOpenFiles": [
+    "math/gcd and lcm.md",
+    "programming/prime factors.md",
+    "Excalidraw/Prime Factorization for finding the lcm .excalidraw.md",
+    "Formatting/Format your notes.md",
+    "programming/Script.md",
     "math/the sum of a Geometric Series.md",
-    "Script.md",
-    "power.md",
+    "programming/power.md",
     "problemSolving/A. Turtle and Piggy Are Playing a Game.md",
     "problemSolving/A. Problem Generator.md",
     "math/Permutations and Combinations.md",
@@ -211,10 +215,6 @@
     "programming/Built in sort Python.md",
     "programming/binary-stuff.md",
     "programming/Binary Tree.md",
-    "DataScientist/Links.md",
-    "DataScientist/videos.md",
-    "Formatting/Format your notes.md",
-    "Linux/Nvim.md",
     "Pasted image 20240605223838.png",
     "CamScanner 05-20-2023 00.35_2.jpg",
     "CamScanner 05-20-2023 00.35_1.jpg",
