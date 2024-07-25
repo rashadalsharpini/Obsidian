@@ -34,9 +34,7 @@ int main() {
     cout << "Prime factors of " << n << ": ";  
     for (int factor : factors) {  
         cout << factor << " ";  
-    }  
-    cout << endl;  
-	//Prime factors of 52: 2 2 13
-    return 0;  
+    } 
+	//Prime factors of 52: 2 2 13 
 }
 ```
