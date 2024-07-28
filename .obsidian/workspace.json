@@ -34,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bab9042e8609bff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PS hand book/Chapter 1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,12 +94,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7b6f0004cc702ece",
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataScientist/videos.md",
+                "file": "PS hand book/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataScientist/videos.md",
+                "file": "PS hand book/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataScientist/videos.md"
+                "file": "PS hand book/Chapter 1.md"
               }
             }
           },
@@ -175,18 +187,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "867da1f94d6f281f",
+  "active": "bab9042e8609bff0",
   "lastOpenFiles": [
+    "DataScientist/videos.md",
+    "شعر.md",
+    "PS hand book/Chapter 1.md",
+    "programming/find b lcm(a,b)=c.md",
+    "PS hand book",
     "programming/Script.md",
     "programming/prime factors.md",
-    "DataScientist/videos.md",
     "math/gcd and lcm.md",
     "Excalidraw/Prime Factorization for finding the lcm .excalidraw.md",
     "programming/List Comprehension.md",
     "programming/counting.md",
     "programming/frequency array.md",
     "programming/Dictionary-Map.md",
-    "find b lcm(a,b)=c.md",
     "DataScientist/Links.md",
     "programming/map function.md",
     "programming/Linked List Single.md",
@@ -201,8 +216,6 @@
     "programming/Prefix Sum 2D.md",
     "Formatting/Format your notes.md",
     "programming/power.md",
-    "problemSolving/A. Turtle and Piggy Are Playing a Game.md",
-    "problemSolving/A. Problem Generator.md",
     "Pasted image 20240605223838.png",
     "CamScanner 05-20-2023 00.35_2.jpg",
     "CamScanner 05-20-2023 00.35_1.jpg",
@@ -223,7 +236,6 @@
     "run/media/rashad/project/Rashad",
     "run/media/rashad/project",
     "run/media/rashad",
-    "run/media",
-    "run"
+    "run/media"
   ]
 }
