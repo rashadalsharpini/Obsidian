@@ -36,13 +36,13 @@
             }
           },
           {
-            "id": "bab9042e8609bff0",
+            "id": "da68ec89d7ab2134",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/binary-stuff.md",
-                "mode": "preview",
+                "file": "PS hand book/Chapter 1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/binary-stuff.md",
+                "file": "PS hand book/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/binary-stuff.md",
+                "file": "PS hand book/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/binary-stuff.md"
+                "file": "PS hand book/Chapter 1.md"
               }
             }
           },
@@ -200,12 +199,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bab9042e8609bff0",
+  "active": "da68ec89d7ab2134",
   "lastOpenFiles": [
+    "DataScientist/videos.md",
+    "programming/binary-stuff.md",
+    "Back End.md",
     "PS hand book/Chapter 1.md",
     "Formatting/Math.md",
-    "Back End.md",
-    "DataScientist/videos.md",
     "شعر.md",
     "programming/find b lcm(a,b)=c.md",
     "PS hand book",
@@ -223,7 +223,6 @@
     "programming/IF.md",
     "programming/complex number multiplication.md",
     "programming/Built in sort Python.md",
-    "programming/binary-stuff.md",
     "programming/Binary Tree.md",
     "math/the sum of a Geometric Series.md",
     "math/Permutations and Combinations.md",

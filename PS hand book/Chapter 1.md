@@ -40,7 +40,7 @@ with a value range of *[-2^{127} to 2^{127} - 1] or about [-10^{38} to 10^{38}]*
 However, this type is not available in all contest systems.
 
 ---
-####odular arithmetic
+#### Modular arithmetic
 ```cpp
 int MOD = 1e9 + 7;
 ```
@@ -51,5 +51,23 @@ Sometimes, the answer to a problem is a very large number but it is enough to ou
 #### Mathematics
 Sum formulas
 $$ \sum_{i=1}^{n} i^k $$
+
+
 $$\sum_{i=1}^n x = 1+2+3+....+n=n(n+1)/2$$
+
+
 $$\sum_{x=1}^n x^2 = 1^2+2^2+3^2+...+n^2 = n(n+1)(2n+1) / 6$$
+
+
+#### logic
+the value of a logical expression is either true or false. the most important operators are 
+negation(not), conjunction(and), disjunction(or), implication(IF...THEN) and equivalence(IF AND ONLY IF). 
+##### implication(IF...THEN):
+p -> q
+is false only if p is true and q is false. Otherwise, it is true
+```cpp
+bool implication(bool p, bool q) { return !p || q; }
+```
+##### equivalence(IF AND ONLY IF):
+p <-> q
+it's true if both of them are true or both of them or false
