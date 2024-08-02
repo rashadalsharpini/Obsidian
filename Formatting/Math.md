@@ -12,3 +12,4 @@ You can also do inline math like $e^{2i\pi} = 1$ .
 
 Obsidian uses [Mathjax](http://docs.mathjax.org/en/latest/basic/mathjax.html). You can check which packages are supported in Mathjax [here](http://docs.mathjax.org/en/latest/input/tex/extensions/index.html).
 
+$$ \sum_{i=1}^{n} i^2 $$

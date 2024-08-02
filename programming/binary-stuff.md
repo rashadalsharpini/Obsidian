@@ -79,7 +79,7 @@ for i in range(100):
     print(~i, i)
 ```
 
-### Sub Sequences
+### Sub Sequences - complete search
 ```py
 a = [0, 1, 2, 3]  
 for i in range(1 << len(a)):  
@@ -91,6 +91,33 @@ for i in range(1 << len(a)):
         j += 1  
         msk >>= 1  
     print()
+```
+
+```cpp
+#include <iostream>
+#include <vector>
+using namespace std;
+int main() {
+    vector<int> a = {0, 1, 2, 3};
+    int n = a.size();
+    
+    for (int i = 0; i < (1 << n); ++i) {
+        int msk = i;
+        int j = 0;
+        
+        while (msk) {
+            if (msk & 1) {
+                cout << a[j] << " ";
+            }
+            j++;
+            msk >>= 1;
+        }
+        cout << endl;
+    }
+
+    return 0;
+}
+
 ```
 
 ```py

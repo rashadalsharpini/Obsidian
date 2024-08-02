@@ -41,7 +41,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PS hand book/Chapter 1.md",
+                "file": "programming/binary-stuff.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e3171c9b1943da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back End.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prime",
+                "query": "bit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PS hand book/Chapter 1.md",
+                "file": "programming/binary-stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PS hand book/Chapter 1.md",
+                "file": "programming/binary-stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PS hand book/Chapter 1.md"
+                "file": "programming/binary-stuff.md"
               }
             }
           },
@@ -189,9 +202,11 @@
   },
   "active": "bab9042e8609bff0",
   "lastOpenFiles": [
+    "PS hand book/Chapter 1.md",
+    "Formatting/Math.md",
+    "Back End.md",
     "DataScientist/videos.md",
     "شعر.md",
-    "PS hand book/Chapter 1.md",
     "programming/find b lcm(a,b)=c.md",
     "PS hand book",
     "programming/Script.md",
@@ -214,8 +229,6 @@
     "math/Permutations and Combinations.md",
     "Linux/internet.md",
     "programming/Prefix Sum 2D.md",
-    "Formatting/Format your notes.md",
-    "programming/power.md",
     "Pasted image 20240605223838.png",
     "CamScanner 05-20-2023 00.35_2.jpg",
     "CamScanner 05-20-2023 00.35_1.jpg",

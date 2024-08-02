@@ -40,13 +40,16 @@ with a value range of *[-2^{127} to 2^{127} - 1] or about [-10^{38} to 10^{38}]*
 However, this type is not available in all contest systems.
 
 ---
-#### Modular arithmetic
+####odular arithmetic
 ```cpp
-int MOD = pow(10, 9) + 7
+int MOD = 1e9 + 7;
 ```
 Sometimes, the answer to a problem is a very large number but it is enough to output it "modulo m".
 
 ---
 
-#### Floating point numbers
-# 7
+#### Mathematics
+Sum formulas
+$$ \sum_{i=1}^{n} i^k $$
+$$\sum_{i=1}^n x = 1+2+3+....+n=n(n+1)/2$$
+$$\sum_{x=1}^n x^2 = 1^2+2^2+3^2+...+n^2 = n(n+1)(2n+1) / 6$$
