@@ -73,3 +73,4 @@ bool implication(bool p, bool q) { return !p || q; }
 ##### equivalence(IF AND ONLY IF):
 p <-> q
 it's true if both of them are true or both of them or false
+ 
