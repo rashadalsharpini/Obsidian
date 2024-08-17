@@ -78,6 +78,16 @@
 
 ---
 
-| Series | watch | rate |
-| ------ | ----- | ---- |
-|        |       |      |
+| Series              | watch | rate |
+| ------------------- | ----- | ---- |
+| fallout             |       |      |
+| presumed innocent   |       |      |
+| better call saul    |       |      |
+| vikings             |       |      |
+| shogun              |       |      |
+| silo                |       |      |
+| house of the dragon |       |      |
+| dexter              |       |      |
+| daredevil           |       |      |
+| the punsher         |       |      |
+| Chernobyl           |       |      |
