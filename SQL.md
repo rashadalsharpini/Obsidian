@@ -153,3 +153,72 @@ instead, we will have to use these operators:
 select name from movies
 where imdb_rating is not null;
 ```
+
+---
+
+```sql
+select * from movies
+where year between 1990 and 1999;
+```
+that will give you the information from 1990 up to 1999 included.
+```sql
+select * from movies
+where name between 'A' and 'J';
+```
+in this statement, `between` filters the result set to only include movies with `name`s that begin with the letter 'A' up to,
+but not including the ones that begin with 'J'.
+However, if movies has a name of simply 'J', it would be actually match. this is because `between` goes up to the second value - up to 'J'. So the movie named 'J' would be included in the result set but not 'Jaws'.
+
+---
+
+you can make more than one condition like 
+```sql
+select * from movies
+where year between 1990 and 1999 and genre = 'romance';
+```
+and as you know the `and` won't return a value unless the conditions are true all of them.
+but not like the `or` it will return a value if any condition is true.
+```sql
+select * from movies
+where year > 2014 or genre = 'action';
+```
+
+---
+
+```sql
+select * from movies
+order by name;
+```
+- `order by` is a clause that indicates you want to sort the result set by a particular column.
+- `decs` is a keyword used in `order by` to sort the in decreasing order high to low z to a.
+- `asc` is a keyword used in `order by` to sort the in ascending order low to high a to z. 
+>[!note] order by always comes after where (if where is present).
+
+---
+
+we have been working with a fairly small table fewer than 250 row,
+but most sql tables contains hundreds of thousands of records.
+for instance, imagine that we just want to see a few examples of records.
+```sql
+select * from movies
+limit 10;
+```
+`LIMIT` always goes at the very end of the query. Also, it is not supported in all SQL databases.
+
+---
+
+```sql
+select name
+	case
+		when imdb_rating > 8 then 'fantastic'
+		when imdb_rating > 6 then 'poorly received'
+		else 'avoid at all costs'
+	end
+from movies;
+```
+- Each `WHEN` tests a condition and the following `THEN` gives us the string if the condition is true.
+- The `ELSE` gives us the string if _all_ the above conditions are false.
+- The `CASE` statement must end with `END`.
+
+---
+
