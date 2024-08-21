@@ -85,3 +85,71 @@ inserted data that does not adhere to a certain restriction.
 2. `unique` columns have a different value for every row. this is similar to `primary key` except a table can have many different `unique` columns.
 3. `not null` must have a value. attempts to insert a row without a value for a `not null` column will result in a constrain violation and the new row will not be inserted.
 4. `default` columns take an additional argument that will be the assumed value for an inserted row if the row does specify a value for that column.
+
+---
+
+back to the `select` statement you could chose more than a column
+```sql
+select name, genre
+from movies;
+```
+
+`as` is a keyword in sql that allows you to rename a column or table using an alias.
+the new name can be anything you want as long as you put it inside of single quotes. 
+```sql
+select name as 'title' from movies;
+```
+>[!note]
+> . although it's not always necessary, it's considered best practice to surround your aliases with sing quotes.
+> 	. note that this practice is specific to SQLite, the RDBMS used in this exercise. when you work with other RDBMS, notably PostgreSQL, no quotes or double quotes may be required in place of single quotes.
+> . when using `as`, the columns are not being renamed in the table. 
+> the aliases only appear in the result.
+
+by adding `distinct` before the column name,the values will not be repeated. which means that it will return unique values only!
+```sql
+select distinct year from movies;
+```
+
+---
+Comparison operators used with the `WHERE` clause are:
+
+- `=` equal to
+- `!=` not equal to
+- `>` greater than
+- `<` less than
+- `>=` greater than or equal to
+- `<=` less than or equal to
+
+---
+`like` can be a useful operator when you want to compare similar values.
+the movies table contains to films with similar titles seven se7en.
+```sql
+select * from movies
+where name like 'Se_en';
+```
+the `_` means you can substitute any individual character here without breaking the pattern.
+
+the `%` is another wildcard character that can be used.
+```sql
+select * from movies
+where name like 'A%';
+```
+- `A%` matches all movies with name that begin with 'A'.
+- `%a` matches all movies with name that ends with 'a'.
+we can use this pattern both before and after.
+```sql
+select * from movies
+where name like '%man%';
+```
+
+---
+
+Unknown values indicated by `null`.
+it's not possible to test for null values with comparison operators, such as = or != .
+instead, we will have to use these operators:
+- `is null`
+- `is not null`
+```sql
+select name from movies
+where imdb_rating is not null;
+```
