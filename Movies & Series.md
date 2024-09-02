@@ -91,3 +91,11 @@
 | daredevil           |       |      |
 | the punsher         |       |      |
 | Chernobyl           |       |      |
+| pachinko            |       |      |
+| severence           |       |      |
+| breaking bad        |       |      |
+| parasite            |       |      |
+|                     |       |      |
+
+
+

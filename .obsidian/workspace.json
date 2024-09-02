@@ -53,8 +53,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL.md",
-                "mode": "source",
+                "file": "Linux/Nvim.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chat",
+                "query": "nvim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7b6f0004cc702ece",
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL.md",
+                "file": "Linux/Nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL.md",
+                "file": "Linux/Nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL.md"
+                "file": "Linux/Nvim.md"
               }
             }
           },
@@ -202,11 +201,16 @@
   },
   "active": "7a488fb978b2df43",
   "lastOpenFiles": [
-    "Quotes.md",
+    "Linux/internet.md",
+    "Movies & Series.md",
     "SQL.md",
+    "Excalidraw/Drawing 2024-08-25 11.02.39.excalidraw.md",
+    "mapping TEMP.md",
+    "DataScientist/Links.md",
+    "PS hand book/Phase 1/Chapter 3.md",
+    "Quotes.md",
     "math/Permutations and Combinations.md",
     "programming/binary-stuff.md",
-    "Movies & Series.md",
     "DataScientist/videos.md",
     "Movies & Series/Screenshot_2024-08-16-14-35-22_1920x1080.png",
     "Movies & Series/Screenshot_2024-08-16-14-34-46_1920x1080.png",
@@ -218,13 +222,10 @@
     "Movies & Series",
     "PS hand book/Phase 1/Chapter 2.md",
     "programming/Dynamic Programming.md",
-    "PS hand book/Phase 1/Chapter 3.md",
-    "Linux/internet.md",
     "programming/prefix and suffix sum.md",
     "Linux/Git Hub Command.md",
     "Excalidraw/Concept.excalidraw.md",
     "programming/Back End.md",
-    "DataScientist/Links.md",
     "Linux/FZF.md",
     "PS hand book/Phase 1/Chapter 1.md",
     "programming/Script.md",
@@ -235,8 +236,6 @@
     "PS hand book",
     "programming/prime factors.md",
     "math/gcd and lcm.md",
-    "Excalidraw/Prime Factorization for finding the lcm .excalidraw.md",
-    "programming/List Comprehension.md",
     "Pasted image 20240605223838.png",
     "CamScanner 05-20-2023 00.35_2.jpg",
     "CamScanner 05-20-2023 00.35_1.jpg",
