@@ -1,7 +1,3 @@
-  ## By Rashad Alsharpini
-
-
-
 ```md
 
 - `git clone "link"`: This command is used to clone a remote repository to your local machine. The "link" parameter should be replaced with the URL of the remote repository you want to clone.

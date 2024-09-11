@@ -8,3 +8,6 @@ bool comp(string a, string b){
 }
 sort(v.begin(), v.end(), comp);
 ```
+
+---
+### binary search
