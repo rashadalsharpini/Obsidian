@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4b012778179be6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/grep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7b6f0004cc702ece",
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Git Hub Command.md",
+                "file": "Linux/grep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Git Hub Command.md",
+                "file": "Linux/grep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Git Hub Command.md"
+                "file": "Linux/grep.md"
               }
             }
           },
@@ -199,17 +210,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62f5baab016eff3e",
+  "active": "b4b012778179be6e",
   "lastOpenFiles": [
-    "Linux/encrypt.md",
-    "Movies & Series.md",
-    "PS hand book/Phase 1/Chapter 4.md",
     "Linux/Git Hub Command.md",
+    "Linux/grep.md",
+    "Linux/internet.md",
+    "Movies & Series.md",
+    "Linux/encrypt.md",
+    "PS hand book/Phase 1/Chapter 4.md",
     "DataScientist/Links.md",
     "PS hand book/Phase 1/Chapter 3.md",
     "DataScientist/videos.md",
     "Quotes.md",
-    "Linux/internet.md",
     "Linux/Shell Scripting.md",
     "Linux/switch shells.md",
     "Linux/Nvim.md",
@@ -233,7 +245,6 @@
     "programming/Back End.md",
     "Linux/FZF.md",
     "PS hand book/Phase 1/Chapter 1.md",
-    "programming/Script.md",
     "PS hand book/Phase 1",
     "PS hand book",
     "Pasted image 20240605223838.png",
