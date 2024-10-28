@@ -104,3 +104,10 @@
 
 
 
+want to watch 
+sicario
+kill bill
+
+---
+succession
+black mirror
