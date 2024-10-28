@@ -1,0 +1,7 @@
+- accuracy
+- integrity
+- limits
+- scalability
+- maintenance
+- security
+- 
